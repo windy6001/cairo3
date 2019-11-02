@@ -2,6 +2,7 @@
 
 GTK3 のサンプルプログラムを公開しています。
 
+## 説明
 
 ### Cairo3
 
@@ -14,6 +15,6 @@ Cairo3 と同じように、ランダムなカラーのピクセルを描画し�
 
 ## ビルドの仕方
 
- - brew install gtk+3  (GTK 3をインストールしてください。 )
+ - GTK 3をインストールしてください。 (home brew の場合: brew install gtk+3  )
  - make -f cairo3.mak 
  - make -f cairo4.mak 
